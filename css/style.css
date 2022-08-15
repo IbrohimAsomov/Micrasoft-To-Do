@@ -1,0 +1,15 @@
+.bg-blue {
+    background-color: rgb(3, 98, 252);
+}
+
+.active-bg-navbar {
+    background-color: rgb(204, 223, 255);
+}
+
+.main-bg {
+    background-color: #7277e8;
+}
+
+.bottom {
+    margin-top: 160px;
+}
